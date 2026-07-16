@@ -1,0 +1,47 @@
+{
+  "id": "Polity - Preamble of the Constitution",
+  "hi": {
+    "subjects": [
+      {
+        "subject": "Polity",
+        "source": "M. Laxmikanth / Indian Constitution",
+        "topics": [
+          {
+            "topicName": "Preamble of the Constitution",
+            "questions": [
+              {
+                "question": "भारतीय संविधान की प्रस्तावना को संविधान की 'आत्मा' क्यों कहा जाता है?",
+                "answer": "<h4>प्रस्तावना</h4><p>भारतीय संविधान की प्रस्तावना संविधान के आदर्शों, उद्देश्यों तथा मूल दर्शन को व्यक्त करती है। यह संविधान निर्माताओं की आकांक्षाओं का प्रतिबिंब है तथा सम्पूर्ण संविधान की दिशा निर्धारित करती है। इसी कारण इसे संविधान की 'आत्मा' कहा जाता है।</p><h4>प्रस्तावना को संविधान की 'आत्मा' कहे जाने के कारण</h4><ul><li><b>संविधान का दर्शन:</b> यह न्याय, स्वतंत्रता, समानता एवं बंधुत्व जैसे मूल आदर्शों को स्पष्ट करती है।</li><li><b>उद्देश्यों का उद्घोष:</b> भारत को सम्पूर्ण प्रभुत्व-संपन्न, समाजवादी, पंथनिरपेक्ष, लोकतांत्रिक गणराज्य बनाने का संकल्प व्यक्त करती है।</li><li><b>व्याख्या का आधार:</b> संविधान के किसी प्रावधान में अस्पष्टता होने पर न्यायालय प्रस्तावना की सहायता से उसकी व्याख्या करता है।</li><li><b>संविधान की मूल भावना:</b> यह संविधान के प्रत्येक भाग को एक समान उद्देश्य प्रदान करती है।</li><li><b>मूल संरचना से संबंध:</b> केशवानंद भारती (1973) निर्णय में सर्वोच्च न्यायालय ने प्रस्तावना को संविधान की मूल संरचना समझने का महत्वपूर्ण स्रोत माना।</li></ul><h4>सीमाएँ</h4><ul><li>यह स्वयं कोई विधिक अधिकार प्रदान नहीं करती।</li><li>यह संविधान का परिचयात्मक भाग है, स्वतंत्र शक्ति का स्रोत नहीं।</li></ul><h4>निष्कर्ष</h4><p>प्रस्तावना संविधान की आत्मा, दर्शन तथा मूल उद्देश्यों का सार प्रस्तुत करती है। यह भारतीय लोकतंत्र की आधारशिला है और संविधान की व्याख्या एवं विकास में मार्गदर्शक की भूमिका निभाती है।</p>",
+                "marks": 15,
+                "wordLimit": 250,
+                "time": "15 min"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "subjects": [
+      {
+        "subject": "Polity",
+        "source": "M. Laxmikanth / Indian Constitution",
+        "topics": [
+          {
+            "topicName": "Preamble of the Constitution",
+            "questions": [
+              {
+                "question": "Why is the Preamble of the Indian Constitution called the 'soul' of the Constitution?",
+                "answer": "<h4>Introduction</h4><p>The Preamble reflects the philosophy, objectives, and aspirations of the Constitution makers. It provides the guiding principles for governance and serves as the foundation of the constitutional framework. Hence, it is often described as the 'soul' of the Constitution.</p><h4>Why is it called the 'Soul' of the Constitution?</h4><ul><li><b>Embodies Constitutional Philosophy:</b> It enshrines the ideals of Justice, Liberty, Equality, and Fraternity.</li><li><b>Declares National Objectives:</b> It resolves to constitute India into a Sovereign, Socialist, Secular, Democratic Republic.</li><li><b>Guides Constitutional Interpretation:</b> Courts refer to the Preamble while interpreting ambiguous constitutional provisions.</li><li><b>Reflects the Spirit of the Constitution:</b> It provides a common vision and purpose to all constitutional provisions.</li><li><b>Linked with the Basic Structure:</b> In the Kesavananda Bharati (1973) judgment, the Supreme Court recognized the Preamble as an important source for identifying the Constitution's Basic Structure.</li></ul><h4>Limitations</h4><ul><li>It does not confer enforceable legal rights.</li><li>It is introductory in nature and is not an independent source of power.</li></ul><h4>Conclusion</h4><p>The Preamble encapsulates the essence of the Constitution and acts as its moral compass. It continues to guide constitutional interpretation, governance, and the realization of the ideals envisioned by the framers.</p>",
+                "marks": 15,
+                "wordLimit": 250,
+                "time": "15 min"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
